@@ -1,0 +1,6 @@
+name: TavariaLobby
+author: SuperKlug
+version: 1.0-SNAPSHOT
+main: de.superklug.mygames.supertavarialobby.Lobby
+
+commands:
